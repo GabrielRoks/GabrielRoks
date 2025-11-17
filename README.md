@@ -1,6 +1,5 @@
 <!-- Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/Z8aQwKf.gif" width="100%" alt="Banner Neon" />
 </div>
 
 <h1 align="center">⚡ Bem-vindo ao meu GitHub! Eu sou o Gabriel Roks ⚡</h1>
