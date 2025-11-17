@@ -52,20 +52,12 @@
 
 ---
 
-# 🌀 GIF animado (só pra deixar estiloso 😄)
-
-<div align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="280px" alt="Hacker Gif" />
-</div>
-
----
-
 # 📌 Sobre Mim
 
 - 🎓 Estudando Desenvolvimento de Sistemas — SENAI  
 - 💼 Freelancer na **ServiLar**, criando e mantendo soluções  
 - 👨‍💻 Backend em evolução (Node.js & Python)  
-- 🌱 Inglês nível **A2**  
+- 🌱 Inglês nível **B1**  
 - 🔥 Sempre aprendendo novas tecnologias e criando projetos  
 - 💡 Interesse em backend, automação e boas práticas  
 
