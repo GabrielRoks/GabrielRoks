@@ -32,7 +32,7 @@
 
 ---
 
-# ⚙️ Stats (Neon Mode)
+# ⚙️ Stats
 
 <div align="center">
 
