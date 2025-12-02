@@ -1,16 +1,16 @@
-<h1 align="center" style="color:#ff00ff;">⚡ Hello! I'm Gabriel Roks </h1>
-
 <p align="center">
-  <strong>Systems Development Student (SENAI)</strong>  
-  <br>
-  Developer with experience as a <strong>Freelancer at ServiLar</strong>, working on building and maintaining digital solutions.  
-  <br>
-  Passionate about technology, backend engineering, and automation.  
+  <img src="assets/welcome.svg" width="800" />
 </p>
 
----
+<h1 align="center">⚡ Welcome to my Cyberpunk GitHub — I'm <span style="color:#ff2fa1;">Gabriel Roks</span> ⚡</h1>
 
-<img src="https://github.com/GabrielRoks/GabrielRoks/blob/main/assets/cyberpunk-banner.gif" width="100%" />
+<p align="center">
+  Backend developer focused on <strong>Node.js</strong>, <strong>automation</strong> and creating efficient, scalable solutions.  
+  <br>
+  Former freelancer at <strong>ServiLar</strong>, working on backend architecture, integrations and platform improvements.  
+  <br>
+  Passionate about technology, neon aesthetics, and building things that live in the shadows of the system.
+</p>
 
 ---
 
@@ -20,13 +20,12 @@
 
 <div align="center">
 
-<!-- BADGES (Cyberpunk Style) -->
-<img src="https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00ffcc" />
-<img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ff0099" />
-<img src="https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=00aaff" />
-<img src="https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=00eaff" />
-<img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ff0066" />
-<img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=bb00ff" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff88" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffdd00" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=4B8BBE" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00aaff" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff4400" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff" />
 
 </div>
 
@@ -36,9 +35,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRoks&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff00ff&title_color=00eaff&text_color=cccccc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRoks&show_icons=true&theme=tokyonight&hide_border=true&icon_color=00ff99&title_color=00eaff" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoks&layout=compact&theme=tokyonight&hide_border=true&title_color=00eaff&text_color=cccccc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRoks&layout=compact&theme=tokyonight&hide_border=true&title_color=00eaff" />
 
 </div>
 
@@ -47,28 +46,30 @@
 # 🏆 Certifications
 
 ### 🎓 **Back-End Node.js Immersion — Alura + Gemini**
-- REST APIs with Node.js & Express  
+- Node.js & Express APIs  
 - Database integration  
-- Deploy & versioning  
-- Practical backend projects using JavaScript  
+- Deployment & versioning  
+- Practical backend projects with JavaScript  
 
 ---
 
 # 📌 About Me
 
-- 🎓 Systems Development Student — SENAI  
-- 💼 Freelancer at **ServiLar**  
-- 👨‍💻 Backend developer in progress (Node.js & Python)  
+- 💼 Former freelancer at **ServiLar**, developing and maintaining digital solutions  
+- 👨‍💻 Backend developer (Node.js & Python)  
 - 🌱 English level **B1**  
-- 🔥 Always experimenting with new technologies  
-- 💡 Interested in backend, automation, and best practices  
+- 🔥 Always learning new technologies and building things from scratch  
+- 💡 Interested in backend, automation, and clean architecture  
 
 ---
 
 # 🔗 Contact
 
 - 🔵 **LinkedIn:**  
-  https://www.linkedin.com/in/gabriel-roks-gomes-rodrigues  
-
+  https://www.linkedin.com/in/gabrielroks
 - 📧 **Email:**  
   **gabrielrokssz@gmail.com**
+
+---
+
+<h3 align="center">✨ Thanks for stopping by the neon grid ✨</h3>
