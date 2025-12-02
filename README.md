@@ -9,7 +9,6 @@
   <br>
   Former freelancer at <strong>ServiLar</strong>, working on backend architecture, integrations and platform improvements.  
   <br>
-  Passionate about technology, neon aesthetics, and building things that live in the shadows of the system.
 </p>
 
 ---
