@@ -2,7 +2,7 @@
   <img src="assets/welcome.svg" width="800" />
 </p>
 
-<h1 align="center">⚡ Welcome to my Cyberpunk GitHub — I'm <span style="color:#ff2fa1;">Gabriel Roks</span> ⚡</h1>
+<h1 align="center">⚡ Welcome to my GitHub — I'm <span style="color:#ff2fa1;">Gabriel Roks</span> ⚡</h1>
 
 <p align="center">
   Backend developer focused on <strong>Node.js</strong>, <strong>automation</strong> and creating efficient, scalable solutions.  
@@ -69,7 +69,3 @@
   https://www.linkedin.com/in/gabrielroks
 - 📧 **Email:**  
   **gabrielrokssz@gmail.com**
-
----
-
-<h3 align="center">✨ Thanks for stopping by the neon grid ✨</h3>
