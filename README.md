@@ -14,4 +14,3 @@ I am always looking to learn new technologies and improve my skills in the backe
 ## Contact
 **Email:** gabrielrokssz@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/gabrielroks  
-**GitHub:** https://github.com/GabrielRoks
